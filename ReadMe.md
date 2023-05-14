@@ -1,0 +1,2 @@
+# Investigation Library
+Programming strategies and concepts that I've experimented with and don't want to forget for future projects. Currently, all are written in JS, but I'll be writing them in other languages if there are interesting implementation differences across languages (JS vs Python vs Go...).
