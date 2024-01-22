@@ -1,4 +1,6 @@
 from random import SystemRandom
+# Used this doc as a guide: https://codethechange.stanford.edu/guides/guide_zk.html
+
 '''
 Private Config
 '''
