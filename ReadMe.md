@@ -3,6 +3,8 @@ Programming strategies and concepts that I've experimented with and don't want t
 
 ### Investigation Queue:
 - [x] Zero Knowledge Proofs
+- [x] Distinct Elements Estimator
+- [ ] [Fuzzy logic experiment](https://filiph.net/fuzzy/)
 - [ ] Markov Chains
 - [ ] Binary Search
 - [ ] Dynamic Time Warping
